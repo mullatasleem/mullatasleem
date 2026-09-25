@@ -44,6 +44,12 @@ I didn't wait until I "knew enough" to start building. I started learning and bu
   <img src="https://streak-stats.demolab.com?user=mullatasleem&background=FFFAF3&border=E8DDD3&stroke=E8DDD3&ring=8A9B7E&fire=8A9B7E&currStreakNum=4A4A4A&sideNums=6B6B6B&currStreakLabel=4A4A4A&sideLabels=6B6B6B&dates=6B6B6B" alt="GitHub streak" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mullatasleem/mullatasleem/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mullatasleem/mullatasleem/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mullatasleem/mullatasleem/output/github-snake.svg" />
+</picture>
+
 ## 📌 Featured projects
 
 ### 🔍 [Hybrid Fake News Detection](https://github.com/mullatasleem/hybrid-fake-news-detection)
