@@ -1,3 +1,5 @@
+![Mulla Tasleem](banner.png)
+
 # Hi, I'm Tasleem 👋
 
 BTech in AI/ML (Vignan, '26) — learning AI by building with it, in public. 🔨
