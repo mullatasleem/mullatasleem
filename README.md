@@ -1,22 +1,63 @@
-![Mulla Tasleem](banner.png)
+![Mulla Tasleem — AI/ML Engineer · RAG Systems & AI Automation](banner.png)
 
-# Hi, I'm Tasleem 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=6B5B4F&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Tasleem+%F0%9F%91%8B;I+build+RAG+systems+%26+AI+automation+%F0%9F%A4%9D;Learning+AI+by+building+in+public+%F0%9F%94%A8" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mullatasleem&color=8A9B7E&style=flat&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mullatasleem?style=flat&color=8A9B7E&label=FOLLOWERS" alt="GitHub followers" />
+</p>
+
+## 🌱 About me
 
 BTech in AI/ML (Vignan, '26) — learning AI by building with it, in public. 🔨
 
 I didn't wait until I "knew enough" to start building. I started learning and building at the same time, and everything here taught me something no tutorial could.
 
-## 🔨 What I build
-- **RAG systems** — grounded Q&A over your own data, no hallucinations
-- **AI automation** — n8n workflows, LLM agents, embeddings + vector DBs
-- **Edge-optimized LLM apps** — hybrid retrieval, quantized local models, prompt compression
+## 🛠️ Tech I build with
 
-## 📌 Highlight
-**Hybrid Fake News Detection (ML + DL ensemble)** — 99.01% accuracy on the ISOT dataset. Presented at ICAN 2026. (repo coming soon)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8A9B7E?style=flat&logo=chromadb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-## 🌱 Right now
-Building **EdgeTour-RAG** — a RAG system optimized for edge devices. Documenting the whole build in public.
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mullatasleem&show_icons=true&bg_color=FFFAF3&title_color=4A4A4A&text_color=6B6B6B&icon_color=8A9B7E&border_color=E8DDD3" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullatasleem&layout=compact&bg_color=FFFAF3&title_color=4A4A4A&text_color=6B6B6B&border_color=E8DDD3" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mullatasleem&background=FFFAF3&border=E8DDD3&stroke=E8DDD3&ring=8A9B7E&fire=8A9B7E&currStreakNum=4A4A4A&sideNums=6B6B6B&currStreakLabel=4A4A4A&sideLabels=6B6B6B&dates=6B6B6B" alt="GitHub streak" />
+</p>
+
+## 📌 Featured projects
+
+<p align="center">
+  <a href="https://github.com/mullatasleem/hybrid-fake-news-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mullatasleem&repo=hybrid-fake-news-detection&bg_color=FFFAF3&title_color=4A4A4A&text_color=6B6B6B&icon_color=8A9B7E&border_color=E8DDD3" alt="Hybrid Fake News Detection" />
+  </a>
+</p>
+
+**Hybrid Fake News Detection (ML + DL ensemble)** — 99.01% accuracy on the ISOT dataset with a GRU pre+post padding fusion model. Presented at ICAN 2026, Chitkara University.
+
+🚧 **EdgeTour-RAG** — currently building: an edge-optimized RAG system for tourism + civic hazard routing (hybrid retrieval, quantized local LLMs, prompt compression). Documenting the whole build in public.
 
 ## 📫 Find me
-- LinkedIn: [tasleem-mulla](https://www.linkedin.com/in/tasleem-mulla)
-- DMs open — especially if you're learning too 👀
+
+<p>
+  <a href="https://www.linkedin.com/in/tasleem-mulla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+DMs open — especially if you're learning too 👀
