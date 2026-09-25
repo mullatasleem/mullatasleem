@@ -33,8 +33,12 @@ I didn't wait until I "knew enough" to start building. I started learning and bu
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mullatasleem&show_icons=true&bg_color=FFFAF3&title_color=4A4A4A&text_color=6B6B6B&icon_color=8A9B7E&border_color=E8DDD3" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullatasleem&layout=compact&bg_color=FFFAF3&title_color=4A4A4A&text_color=6B6B6B&border_color=E8DDD3" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mullatasleem&theme=github" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mullatasleem&theme=github" alt="Most used language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mullatasleem&theme=github" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mullatasleem&theme=github&utcOffset=5.5" alt="Productive time" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mullatasleem&background=FFFAF3&border=E8DDD3&stroke=E8DDD3&ring=8A9B7E&fire=8A9B7E&currStreakNum=4A4A4A&sideNums=6B6B6B&currStreakLabel=4A4A4A&sideLabels=6B6B6B&dates=6B6B6B" alt="GitHub streak" />
@@ -42,15 +46,17 @@ I didn't wait until I "knew enough" to start building. I started learning and bu
 
 ## 📌 Featured projects
 
-<p align="center">
-  <a href="https://github.com/mullatasleem/hybrid-fake-news-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mullatasleem&repo=hybrid-fake-news-detection&bg_color=FFFAF3&title_color=4A4A4A&text_color=6B6B6B&icon_color=8A9B7E&border_color=E8DDD3" alt="Hybrid Fake News Detection" />
-  </a>
-</p>
+### 🔍 [Hybrid Fake News Detection](https://github.com/mullatasleem/hybrid-fake-news-detection)
 
-**Hybrid Fake News Detection (ML + DL ensemble)** — 99.01% accuracy on the ISOT dataset with a GRU pre+post padding fusion model. Presented at ICAN 2026, Chitkara University.
+ML + deep learning ensemble — **99.01% accuracy** on the ISOT dataset with a GRU pre+post padding fusion model. Presented at ICAN 2026, Chitkara University.
 
-🚧 **EdgeTour-RAG** — currently building: an edge-optimized RAG system for tourism + civic hazard routing (hybrid retrieval, quantized local LLMs, prompt compression). Documenting the whole build in public.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### 🚧 EdgeTour-RAG *(building now)*
+
+An edge-optimized RAG system for tourism + civic hazard routing (hybrid retrieval, quantized local LLMs, prompt compression). Documenting the whole build in public.
 
 ## 📫 Find me
 
