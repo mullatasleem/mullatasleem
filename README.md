@@ -16,5 +16,5 @@ I didn't wait until I "knew enough" to start building. I started learning and bu
 Building **EdgeTour-RAG** — a RAG system optimized for edge devices. Documenting the whole build in public.
 
 ## 📫 Find me
-- LinkedIn: [tasleem-mulla-8071b6316](https://www.linkedin.com/in/tasleem-mulla-8071b6316)
+- LinkedIn: [tasleem-mulla](https://www.linkedin.com/in/tasleem-mulla)
 - DMs open — especially if you're learning too 👀
